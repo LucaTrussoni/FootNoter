@@ -1,7 +1,7 @@
 # FootNoter
 A simple script that extract the footnotes of a word document.
 You can use it in different ways:
-
+| command | des |
 | -------- | ------- |
 | python footnoter.py -h | prints the help of the command |           
 | python footnoter.py filename.docx | prints all the footnotes of filename.docx |
